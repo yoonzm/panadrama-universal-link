@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.panadrama.playletapp",
       "sha256_cert_fingerprints": [
-        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "7F:CF:BC:A3:9F:67:5F:1C:7F:3E:41:D0:7B:91:85:8B:BA:29:75:1E:3E:C7:6E:3C:44:E9:EF:1A:94:77:D8:E6"
       ]
     }
   }
